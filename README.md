@@ -1,6 +1,6 @@
 # 2025年Midjourney开通教程：Midjourney订阅方法与Midjourney合租平台推荐
 
-<p align="center">文章更新于：2025年7月8日</p>
+<p align="center">文章更新于：2025年7月19日</p>
 
 对于很多设计师和绘画爱好者来说，Midjourney这个名字早已耳熟能详。作为目前最先进的AI图像生成工具，只需要输入一句简单的文字描述，就能生成各种令人惊喜的画面。凭借出色的图像生成能力，Midjourney已经成为不少创意工作者的得力助手。
 
@@ -13,32 +13,6 @@ Midjourney其实就是一款用来生成图片的人工智能工具。你只需�
 和传统的画画、设计方式不一样，Midjourney根本不需要你有美术基础，也不用掌握复杂的软件。它的AI算法可以理解你的描述，无论你想要唯美插画、科幻场景、概念设计还是各种抽象风格，基本都能轻松搞定。对于设计师、插画师、广告人，甚至是平时喜欢做点创意的人来说，Midjourney都省了不少力气，让你很快就能把想法变成图片。
 
 现在，Midjourney主要是在Discord这个平台上使用。你只要进入Midjourney的Discord频道，输入自己的提示词，AI就会自动生成图片，而且很快就能看到结果。这种方式不仅方便，也让大家的创作变得更自由。
-
-## 2025年最新Midjourney订阅教程
-
-如果你在工作或生活中经常需要用到Midjourney，或者对Midjourney有较高的使用需求，建议你自行订阅Midjourney会员。不过，目前国内信用卡无法直接支付Midjourney的订阅费用，所以你需要先申请一张WildCard虚拟信用卡，再通过这张卡完成付款。下面是用WildCard虚拟信用卡订阅Midjourney会员的详细步骤：
-
-注意：WildCard虚拟信用卡不仅可以用来订阅Midjourney会员，还可以用于<a href="https://github.com/gptbmw/gptbmw.github.io">订阅ChatGPT Plus</a>、<a href="https://github.com/gptbmw/claude-pro">订阅Claude Pro</a>等其他海外AI服务。
-
-#### 第一步：访问Wildcard野卡官网，点击右上角的注册按钮，使用手机号码注册并登录。
-
-* WildCard野卡官网：<a href="https://yeka.ai/i/GPTBMW">https://yeka.ai/i/GPTBMW</a>
-
-#### 第二步：在左侧选择“充值订阅AI服务”，点击“继续”，然后点击“开通会员”。
-
-#### 第三步：选择服务年限，输入专属邀请码“GPTBMW”（可享九折优惠），点击下一步。
-
-#### 第四步：根据页面提示，了解使用场景、支持服务和封禁须知，填写个人信息，扫描弹出的二维码完成支付。
-
-#### 第五步：进入“我的卡片”，点击“充值”按钮，为WildCard充值。
-
-注意：新开的Wildcard卡初始余额为0。如果你要用Wildcard卡进行海外订阅，比如升级Midjourney等服务，需要先充值。建议充值金额略高于实际订阅费用，避免支付过程中出现余额不足的情况。
-
-#### 第六步：完成Midjourney会员升级。
-
-在左侧菜单栏中找到“Midjourney一键升级”，点击Midjourney图标，按照提示完成升级订阅的操作。
-
-总的来说，WildCard是目前国内用户升级Midjourney订阅最方便的方式，操作简单，支付成功率高。按照以上步骤操作，通常十分钟左右就能完成升级，马上体验AI绘画带来的创作乐趣。如果你是内容创作者、商业用户，或者有更高隐私和功能需求，使用Wildcard卡订阅Midjourney会更安心、更高效。
 
 ## 2025年最靠谱的Midjourney合租平台推荐
 
